@@ -1,0 +1,8 @@
+{
+  "name": "HYME REVENUE INTELLIGENCE",
+  "description": "Premium landing page for HYME Revenue Intelligence featuring the RIO Core OS and DPDP 2026 compliance firewall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
